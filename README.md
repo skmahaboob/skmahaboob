@@ -1,16 +1,80 @@
-## Hi there 👋
 
-<!--
-**skmahaboob/skmahaboob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Mahaboob Sheik | Data Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm [Mahaboob Sheik](https://github.com/MahaboobSheik), a passionate Data Engineer with over 3 years of experience in transforming complex datasets into actionable insights. My expertise spans across big data technologies, cloud platforms, and advanced data processing tools, driving efficient data solutions that empower businesses to thrive.
+
+## 🛠️ Technical Skills
+
+### 🖥️ Languages
+- **Python** 🐍
+- **PySpark** ⚡
+- **SQL** 🗃️
+- **Scala** 🔍
+
+### 💾 Databases
+- **SQL Server** 🛢️
+- **Postgres** 🐘
+- **MongoDB** 🍃
+
+  
+### ☁️ Big Data & Cloud Technologies
+- **Apache Spark** ✨
+- **Hadoop** 🐘
+- **Databricks** 🚀
+- **Azure Data Factory** 🏭
+- **ADLS Gen 2** 💾
+- **Google Cloud Platform (GCP)** ☁️
+
+### 🛠️ DevOps & CI/CD
+- **Azure DevOps** 🚀
+- **Docker** 🐳
+- **CI/CD Pipelines** 🔄
+- **Apache Airflow** 🌬️
+
+### 🧰 Other Tools & Technologies
+- **Kafka**  🔗
+- **Snowflake**  ❄️
+- **StreamSets** 🌐
+- **Linux** 🐧
+- **Data Modeling** 📊
+
+## 🚀 Key Projects & Achievements
+
+### 1. **Scalable Big Data Pipelines**
+- **Role**: Lead Data Engineer
+- **Technologies**: Spark, Hadoop, Azure Databricks
+- **Description**: Designed and managed scalable big data pipelines handling over 50 terabytes monthly. Improved query performance by 20% using distributed computing technologies.
+
+### 2. **CI/CD Pipeline Automation**
+- **Role**: DevOps Lead
+- **Technologies**: Azure DevOps, StreamSets, Docker
+- **Description**: Developed fully automated CI/CD pipelines, reducing deployment time by 50%. Facilitated seamless migration of 40+ pipelines from Development to QA with minimal downtime.
+
+### 3. **Resource Optimization on GCP**
+- **Role**: Data Engineer
+- **Technologies**: Google Cloud Platform (GCP), Apache Spark
+- **Description**: Optimized GCP resources by implementing Storage Lifecycle Management, reducing costs by over 10% annually and boosting operational efficiency.
+
+## 👥 Leadership & Team Management
+- Successfully led a cross-functional team of 10 members, achieving a 20% increase in on-time project completions.
+- Focus on collaboration, continuous learning, and collective success.
+
+## 🎓 Education & Certifications
+- **Bachelor of Technology in Electronics and Communication Engineering**
+  - *SRKR Engineering College, 2017-2021*
+- **Certifications**
+  - *Microsoft Certified Azure Fundamentals (AZ-900)* 🎓
+  - *StreamSets White Belt Certification* 🥋
+
+## 🌱 Current Learning & Interests
+- **Current Projects**: Working on a new Data Engineering project using Google Cloud Platform (GCP).
+- **Learning**: Kafka 🔗 and Snowflake ❄️.
+
+## 🤝 Let's Connect!
+- **LinkedIn**: [Mahaboob Sheik](http://www.linkedin.com/in/mahaboob-sheik) 🌐
+- **Email**: MahaboobSheik26@gmail.com 📧
+- **Phone**: +91-9182912647 📞
+
+---
