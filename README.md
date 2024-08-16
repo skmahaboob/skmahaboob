@@ -3,7 +3,7 @@
 
 Welcome to my GitHub 
 
-I'm [Mahaboob Sheik](https://github.com/MahaboobSheik), a passionate Data Engineer with over 3 years of experience in transforming complex datasets into actionable insights. My expertise spans across big data technologies, cloud platforms, and advanced data processing tools, driving efficient data solutions that empower businesses to thrive.
+I'm [Mahaboob Sheik](https://skmahaboob.github.io), a passionate Data Engineer with over 3 years of experience in transforming complex datasets into actionable insights. My expertise spans across big data technologies, cloud platforms, and advanced data processing tools, driving efficient data solutions that empower businesses to thrive.
 
 ## 🛠️ Technical Skills
 
@@ -76,5 +76,13 @@ I'm [Mahaboob Sheik](https://github.com/MahaboobSheik), a passionate Data Engine
 - **LinkedIn**: [Mahaboob Sheik](http://www.linkedin.com/in/mahaboob-sheik) 🌐
 - **Email**: MahaboobSheik26@gmail.com 📧
 - **Phone**: +91-9182912647 📞
+## 🌐 Website
+
+Visit my live portfolio website at [https://skmahaboob.github.io](https://skmahaboob.github.io) to learn more about me, my skills, and my work.
 
 ---
+
+Feel free to explore the repository and contact me if you have any questions or would like to collaborate on a project!
+
+**Contact**: MahaboobSheik26@gmail.com 📧
+```
