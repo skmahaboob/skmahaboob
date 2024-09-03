@@ -65,6 +65,7 @@ I'm [Mahaboob Sheik](https://skmahaboob.github.io), a passionate Data Engineer w
 - **Bachelor of Technology in Electronics and Communication Engineering**
   - *SRKR Engineering College, 2017-2021*
 - **Certifications**
+  - *Microsoft Certified Azure Data Engineer Associate (DP-203)* 🎓
   - *Microsoft Certified Azure Fundamentals (AZ-900)* 🎓
   - *StreamSets White Belt Certification* 🥋
 
